@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969292230872",
+    "project_id": "peersnestps",
+    "storage_bucket": "peersnestps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969292230872:android:2e3672bdcd75a3723de7ad",
+        "android_client_info": {
+          "package_name": "com.socialapp.peersnest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969292230872-hmtjm7clgdogp2692a2ev7nb1acjb07d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOpM9OhNIlBkB4d47isOIgqj8wPxxHOgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969292230872-hmtjm7clgdogp2692a2ev7nb1acjb07d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
